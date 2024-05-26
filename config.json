@@ -1,5 +1,5 @@
 {
-  "DEFAULT_NODE_URL": "ws://127.0.0.1:8545",
+  "DEFAULT_NODE_URL": "ws://127.0.0.1:8546",
   "MONITOR_NODE_URL": "wss://mainnet.infura.io/ws/v3/b947e9c42ed04643aefa55da31951e95",
   "WETH": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
   "WETHData": {
